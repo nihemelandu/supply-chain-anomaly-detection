@@ -181,17 +181,15 @@ ensemble_config = {
 ---
 
 ## 🗂️ Repository Structure
+## 🗂️ Repository Structure
 
+```text
 supply-chain-anomaly-detection/
 ├── README.md
 ├── requirements.txt
 ├── environment.yml
 ├── LICENSE
 ├── .gitignore
-├── .github/
-│   └── workflows/
-│       ├── ci.yml
-│       └── deployment.yml
 ├── data/
 │   ├── README.md
 │   ├── raw/
