@@ -235,6 +235,7 @@ supply-chain-anomaly-detection/
 ```
 
 <!--
+```text
 supply-chain-anomaly-detection/
 ├── README.md
 ├── requirements.txt
@@ -307,6 +308,7 @@ supply-chain-anomaly-detection/
     ├── docker/
     ├── kubernetes/
     └── terraform/
+```
 -->
 ---
 
