@@ -311,7 +311,7 @@ supply-chain-anomaly-detection/
 ```
 -->
 ---
-
+<!--
 ## 📓 Usage Examples
 
 ### Training Models
@@ -420,7 +420,7 @@ make docs
 - **Alert Thresholds**: Configurable alerts for anomalies and system issues
 
 ---
-
+-->
 ## 🔍 Model Interpretability
 - **Feature Importance**: SHAP values for individual predictions
 - **Anomaly Explanation**: Root cause analysis for detected anomalies
