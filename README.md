@@ -234,7 +234,7 @@ supply-chain-anomaly-detection/
 │   ├── data_dictionary.md
 
 <!--
-\```text
+<pre>
 supply-chain-anomaly-detection/
 ├── README.md
 ├── requirements.txt
@@ -307,7 +307,7 @@ supply-chain-anomaly-detection/
     ├── docker/
     ├── kubernetes/
     └── terraform/
-\```
+</pre>
 -->
 ---
 
