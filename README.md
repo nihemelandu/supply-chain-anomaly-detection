@@ -181,9 +181,8 @@ ensemble_config = {
 ---
 
 ## 🗂️ Repository Structure
-## 🗂️ Repository Structure
 
-\```text
+```text
 supply-chain-anomaly-detection/
 ├── README.md
 ├── requirements.txt
@@ -235,7 +234,7 @@ supply-chain-anomaly-detection/
 │   ├── data_dictionary.md
 
 <!--
-```text
+\```text
 supply-chain-anomaly-detection/
 ├── README.md
 ├── requirements.txt
