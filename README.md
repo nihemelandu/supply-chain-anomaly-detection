@@ -232,6 +232,7 @@ supply-chain-anomaly-detection/
 ├── docs/
 │   ├── methodology.md
 │   ├── data_dictionary.md
+```
 
 <!--
 supply-chain-anomaly-detection/
