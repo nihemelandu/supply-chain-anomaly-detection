@@ -116,6 +116,8 @@ streamlit run src/dashboard/app.py
 - **Cost Reduction**: 20% improvement (95% CI: 15%-25%)
 - **Downtime Reduction**: 15% improvement (p < 0.01)
 
+📘 For a detailed breakdown of the problem definition, scoping process, stakeholder requirements, and project methodology, see the full [Methodology Document](docs/methodology.md)
+
 ---
 
 ## 🔬 Technical Implementation
