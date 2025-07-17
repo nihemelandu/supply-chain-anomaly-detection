@@ -182,6 +182,61 @@ ensemble_config = {
 
 ## 🗂️ Repository Structure
 
+supply-chain-anomaly-detection/
+├── README.md
+├── requirements.txt
+├── environment.yml
+├── LICENSE
+├── .gitignore
+├── .github/
+│   └── workflows/
+│       ├── ci.yml
+│       └── deployment.yml
+├── data/
+│   ├── README.md
+│   ├── raw/
+│   ├── processed/
+│   └── sample/
+├── notebooks/
+│   ├── 01_exploratory_data_analysis.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   ├── 03_model_development.ipynb
+│   ├── 04_ensemble_optimization.ipynb
+│   ├── 05_validation_analysis.ipynb
+│   └── 06_results_visualization.ipynb
+├── src/
+│   ├── __init__.py
+│   ├── data/
+│   │   ├── __init__.py
+│   │   ├── loader.py
+│   │   ├── preprocessor.py
+│   │   └── feature_engineer.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── isolation_forest.py
+│   │   ├── dbscan_detector.py
+│   │   ├── control_charts.py
+│   │   ├── lstm_autoencoder.py
+│   │   └── ensemble.py
+│   ├── validation/
+│   │   ├── __init__.py
+│   │   ├── statistical_tests.py
+│   │   ├── business_validation.py
+│   │   └── robustness_tests.py
+├── tests/
+│   ├── __init__.py
+│   ├── unit/
+│   ├── integration/
+│   └── performance/
+├── results/
+│   ├── figures/
+│   ├── tables/
+│   └── reports/
+├── docs/
+│   ├── methodology.md
+│   ├── data_dictionary.md
+
+<!--
 ```
 supply-chain-anomaly-detection/
 ├── README.md
@@ -256,7 +311,7 @@ supply-chain-anomaly-detection/
     ├── kubernetes/
     └── terraform/
 ```
-
+-->
 ---
 
 ## 📓 Usage Examples
