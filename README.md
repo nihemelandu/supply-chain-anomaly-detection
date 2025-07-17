@@ -235,7 +235,7 @@ supply-chain-anomaly-detection/
 │   ├── data_dictionary.md
 
 <!--
-```
+```text
 supply-chain-anomaly-detection/
 ├── README.md
 ├── requirements.txt
