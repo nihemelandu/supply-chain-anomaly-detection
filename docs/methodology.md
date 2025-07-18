@@ -92,12 +92,9 @@ Based on business impact and data availability assessment:
 ### 1.6 Scope Definition
 
 **In Scope (Root Causes the Project Will Address):**
-- **Unpredictable supplier deliveries** – Detection and prediction of abnormal delivery behavior through monitoring and early warning systems  
-- **Volatile inbound/outbound volumes** – Identification of volume anomalies and forecast deviations using historical data and anomaly detection models  
-- **Return pattern anomalies** – Analysis focused on returns likely caused by upstream supply issues such as quality or fulfillment problems  
-- **Key supplier performance metrics** – Monitoring lead times, delivery reliability, and order completeness over time  
-- **Integration with internal supply chain systems** – Accessing and processing relevant data from ERP, procurement, and logistics systems  
-- **Dashboard for supply chain operations** – Real-time interface for monitoring alerts, trends, and supplier reliability insights  
+- **Unpredictable supplier deliveries** - Monitoring, prediction, and early warning systems for delivery performance
+- **Volatile demand volumes** - Enhanced forecasting accuracy and anomaly detection for volume fluctuations
+- **Unknown return patterns** - Analysis and identification of return pattern causes and trends
 
 **Out of Scope (Symptoms the Project Will Not Directly Address):**
 - **Manual inventory rebalancing** – The project will identify inventory risk drivers, but not manage physical stock movements  
