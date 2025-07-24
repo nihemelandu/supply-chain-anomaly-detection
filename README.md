@@ -12,7 +12,7 @@
 ## 🎯 Project Overview  
 A production-grade anomaly detection system that identifies abnormal patterns in supplier deliveries and shipment volumes across the supply chain. The system uses supervised and unsupervised machine learning to proactively surface issues that lead to production delays, inventory misalignment, and rising exception handling costs.
 
-📘 For a detailed breakdown of the data pipeline, detection strategy, and deployment architecture, refer to the [System Design Document](docs/system_design.md)
+📘 For a detailed breakdown of the problem definition, refer to the [methodology Document](docs/methodology.md)
 
 ---
 
