@@ -9,7 +9,7 @@
 **Urgency:** High - Critical operational impact
 
 **Original Problem Description:**
-> "Our suppliers keep missing their delivery targets, and we don't know when to expect the shipments. As a result, we are experiencing delays in production, stockouts, or overstocking. Our inbound or outbound volumes are all over the place — sometimes way above or below forecasts, resulting in poor inventory planning, under/over-utilization of storage and transport. We're seeing a spike in returns, and we don't know why."
+> "Our suppliers consistently miss their delivery targets, and we are unsure when to expect the shipments. As a result, we are experiencing delays in production, stockouts, or overstocking. Our inbound and outbound volumes fluctuate significantly — sometimes significantly above or below forecasts, resulting in poor inventory planning and underutilization or overutilization of storage and transport. We're seeing a spike in returns, and we don't know why."
 
 ### 1.2 Problem Decomposition
 
